@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+        "target": "ES2020",
+        "moduleResolution": "node",
+        "module": "commonjs",
+        "outDir": "./dist",
+        "baseUrl": "./",
+        "resolveJsonModule": true,
+        "esModuleInterop": true,
+        "strict": true,
+        "paths": {
+            "@tt/constants": ["src/constants"],
+            "@tt/contexts": ["src/contexts"],
+            "@tt/interfaces": ["src/interfaces"],
+            "@tt/utils": ["src/utils"]
+        }
+    },
+    "ts-node": {
+        "files": true
+    }
+}
