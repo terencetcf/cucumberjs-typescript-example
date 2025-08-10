@@ -13,7 +13,7 @@
     "devDependencies": {
         "@commitlint/cli": "17.1.2",
         "@commitlint/config-conventional": "17.1.0",
-        "@cucumber/cucumber": "8.6.0",
+        "@cucumber/cucumber": "8.11.1",
         "@cucumber/pretty-formatter": "1.0.0",
         "@types/supertest": "2.0.12",
         "@typescript-eslint/eslint-plugin": "5.38.1",
